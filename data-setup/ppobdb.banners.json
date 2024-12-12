@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "675ae188cfbffe8abdb3b848"
+  },
+  "banner_name": "Banner 1",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lerem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "675ae191cfbffe8abdb3b84a"
+  },
+  "banner_name": "Banner 2",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lerem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "675ae19dcfbffe8abdb3b84c"
+  },
+  "banner_name": "Banner 3",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lerem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "675ae1a6cfbffe8abdb3b84e"
+  },
+  "banner_name": "Banner 4",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lerem Ipsum Dolor sit amet"
+}]

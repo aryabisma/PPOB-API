@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "675b032c42b9735e0aa2907b"
+  },
+  "invoice_number": "INV12122024-1",
+  "email": "alexchristiano.id@gmail.com",
+  "service_code": "PULSA",
+  "transaction_type": "PAYMENT",
+  "description": "PULSA PAKET",
+  "total_amount": 25000,
+  "created_on": {
+    "$date": "2024-12-12T15:37:16.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675b033a42b9735e0aa29081"
+  },
+  "invoice_number": "INV12122024-2",
+  "email": "alexchristiano.id@gmail.com",
+  "service_code": "PLN",
+  "transaction_type": "PAYMENT",
+  "description": "TOKEN",
+  "total_amount": 50000,
+  "created_on": {
+    "$date": "2024-12-12T15:37:30.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675b0618444e69426dd36a1a"
+  },
+  "invoice_number": "INV12122024-3",
+  "email": "alexchristiano.id@gmail.com",
+  "service_code": "PLN",
+  "transaction_type": "PAYMENT",
+  "description": "TOKEN",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2024-12-12T15:49:44.226Z"
+  },
+  "__v": 0
+}]

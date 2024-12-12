@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "675a9ab4cfbffe8abdb3b803"
+  },
+  "email": "aryabisma@nutech-integrasi.com",
+  "first_name": "Arya",
+  "last_name": "Bisma",
+  "profile_image": "https://dictionary.basabali.org/w/images/dictionary.basabali.org!w/thumb/f/f6/241637801_2495334377265891_7300491633228161032_n.jpg/480px-241637801_2495334377265891_7300491633228161032_n.jpg",
+  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6."
+},
+{
+  "_id": {
+    "$oid": "675ab7d06da5d806ece1cb56"
+  },
+  "email": "alexchristiano.id@gmail.com",
+  "first_name": "alex",
+  "last_name": "wiguna",
+  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6.",
+  "__v": 0,
+  "profile_image": "http://localhost:3000/uploads/1734008416630.jpeg"
+},
+{
+  "_id": {
+    "$oid": "675ab8386da5d806ece1cb5b"
+  },
+  "email": "aryabisma.mailing@gmail.com",
+  "first_name": "arya",
+  "last_name": "bisma",
+  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6.",
+  "__v": 0
+}]

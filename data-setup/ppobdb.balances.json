@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "675ae6ebcfbffe8abdb3b869"
+  },
+  "email": "alexchristiano.id@gmail.com",
+  "balance": 35000
+},
+{
+  "_id": {
+    "$oid": "675ae6ebcfbffe8abdb3b86a"
+  },
+  "email": "aryabisma@nutech-integrasi.com",
+  "balance": "12000"
+},
+{
+  "_id": {
+    "$oid": "675ae6ebcfbffe8abdb3b86b"
+  },
+  "email": "aryabisma.mailing@gmail.com",
+  "balance": "16700"
+}]
