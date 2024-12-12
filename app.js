@@ -17,7 +17,8 @@ const serviceRouter = require('./routes/service');
 const balanceRouter = require('./routes/balance');
 const transactionRouter = require('./routes/transaction');
 
-const mongoURI = 'mongodb://127.0.0.1:27017/ppobdb';
+//const mongoURI = 'mongodb://127.0.0.1:27017/ppobdb';
+const mongoURI = 'mongodb://mongo:fpYDSpciOcVUieREQRyGMMYOXfsCoNdF@autorack.proxy.rlwy.net:31829';
 
 // Connect to MongoDB
 mongoose.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true })
