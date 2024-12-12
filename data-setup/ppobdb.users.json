@@ -6,7 +6,7 @@
   "first_name": "Arya",
   "last_name": "Bisma",
   "profile_image": "https://dictionary.basabali.org/w/images/dictionary.basabali.org!w/thumb/f/f6/241637801_2495334377265891_7300491633228161032_n.jpg/480px-241637801_2495334377265891_7300491633228161032_n.jpg",
-  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6."
+  "password": "$2a$10$2RR3d8J9v8K17f.073mel.psuF49CPJT2l6xQQtDBuHo5onvKJuJe"
 },
 {
   "_id": {
@@ -15,7 +15,7 @@
   "email": "alexchristiano.id@gmail.com",
   "first_name": "alex",
   "last_name": "wiguna",
-  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6.",
+  "password": "$2a$10$j0OEoMlmb8iz9oulOz9U1O5U5BbyMDramz/htjjwks1tBoytpc9u6",
   "__v": 0,
   "profile_image": "http://localhost:3000/uploads/1734008416630.jpeg"
 },
@@ -26,6 +26,6 @@
   "email": "aryabisma.mailing@gmail.com",
   "first_name": "arya",
   "last_name": "bisma",
-  "password": "$2y$10$RFZGu8ZKQrSkw/dRBgBTTeoCyh47D8jGdbSKhjD3ISxvD0K9GFA6.",
+  "password": "$2a$10$4ktCTZCktJZbZTB75e6I4ectxWw2Npa34e2bgzXdJyUrKWZPFYOD.",
   "__v": 0
 }]
